@@ -10,7 +10,7 @@ from langchain_community.document_loaders import DirectoryLoader
 from langchain_openai import OpenAIEmbeddings
 #from langchain_openai import ChatOpenAI
 #import openai
-#import os
+import os
 
 
 # Load documents from folders
